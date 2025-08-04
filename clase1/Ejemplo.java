@@ -1,5 +1,5 @@
-public class Ejemplo1 {
-    public static void main(String[]arg){
-        System.out.ptintl (‟Hola mundo”)
+public class Ejemplo {
+    public static void main(String[] args){
+        System.out.println("Hola mundo");
     }
 }
