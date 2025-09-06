@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class dos {
+public class cuatropundos {
     public static void main(String[] args) {
         double numerouno, numerodos;
         Scanner leer = new Scanner(System.in);
