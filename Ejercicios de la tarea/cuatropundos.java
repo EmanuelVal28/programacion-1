@@ -13,5 +13,7 @@ public class cuatropundos {
         if (numerouno<numerodos) {
             System.out.println("El primer número es el mas pequeño");
         }
+        if (numerouno==numerodos) {
+        System.out.println("Ambos numeros son iguales");}
         leer.close(); }
     }
